@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>delline.png</file>
+    </qresource>
+</RCC>
